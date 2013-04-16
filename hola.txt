@@ -1,26 +1,10 @@
-am-D95NVW  Plantillas
-.codeblocks       .goutputstream-ENLDVW  .profile
-.compiz           .goutputstream-GZOHVW  Público
-.config           .goutputstream-NPWMVW  .pulse
-.dbus             .goutputstream-QWLBVW  .pulse-cookie
-Descargas         .gstreamer-0.10        .rpmdb
-.dmrc             .gtk-bookmarks         Ubuntu One
-Documentos        .ICEauthority          Vídeos
-dwhelper          .icons                 .Xauthority
-Escritorio        Imágenes               .xsession-errors
-examples.desktop  key_backup             .xsession-errors.old
-yonel@yonel-PBL20:~$ clear
-
-yonel@yonel-PBL20:~$ ssh-keygen
-Generating public/private rsa key pair.
-Enter file in which to save the key (/home/yonel/.ssh/id_rsa):   
-Created directory '/home/yonel/.ssh'.
-Enter passphrase (empty for no passphrase): 
-Enter same passphrase again: 
-Your identification has been saved in /home/yonel/.ssh/id_rsa.
-Your public key has been saved in /home/yonel/.ssh/id_rsa.pub.
-The key fingerprint is:
-95:c1:0a:e1:d5:bd:17:16:61:ad:bd:ab:af:fb:04:14 yonel@yonel-PBL20
-The key's randomart image is:
-+--[ RSA 2048]----+
-|      ...o.. E++ 
+void llen()
+{
+    vector = new int[10];
+    for(int i=0;i<10;++i)
+      *(vector+i)=i;
+}
+void read()
+{
+   for(int i=0;i<10;++i)
+   cout<<
